@@ -18,7 +18,7 @@ A semi-official port of the open source [Anki](https://apps.ankiweb.net/index.ht
 
 <img src="docs/graphics/logos/ankidroid_logo.png" align="right" width="40%" height="100%"></img>
 
-### Features.
+### Features
 
 <div style="display:flex;">
  
