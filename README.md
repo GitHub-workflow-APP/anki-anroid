@@ -28,7 +28,7 @@ sasas
 - Detailed statistics
 - Syncing with AnkiWeb
 - Write answers (optional)
-- Text-to-speech integration
+- Text-to-speech integrationcfdcfd
 - More than 6000 premade decks
 - Spaced repetition (supermemo 2 algorithm)
 - Supported contents: text, images, sounds, MathJax
